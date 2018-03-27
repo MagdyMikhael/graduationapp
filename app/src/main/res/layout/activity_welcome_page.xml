@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#171f70"
+    tools:context="com.example.migosoft.graduationproject.WelcomePage">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="592dp"
+        android:layout_height="994dp"
+        app:srcCompat="@mipmap/app"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="2dp" />
+
+
+</android.support.constraint.ConstraintLayout>
